@@ -1,7 +1,7 @@
 # Simple-Flask-Chat-Application
 Simple chat application with a Server, Database & Client, Powered by Python, Flask & Sqlite3!
 
-Written by DeadEagle
+![alt text](https://s20.directupload.net/images/220109/hpwfzunf.png) Written by DeadEagle
 
 WHAT CAN YOU DO
 -------------
