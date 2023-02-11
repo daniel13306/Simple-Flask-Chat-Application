@@ -1,6 +1,11 @@
 import requests
 import json
 
+# Created by DeadEagle
+# www.DeadEagle.nl
+# www.Coding-Community.com
+# 2023
+
 # Make sure you change this link to fit your own URL.
 SELF_URL = "https://yourwebsite.com"
 
