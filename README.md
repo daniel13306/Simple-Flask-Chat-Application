@@ -39,6 +39,10 @@ WHAT CAN YOU DO
    - The "rooms" table is where all rooms are saved, containing: ROOMID, ROOMNAME, ROOMMESSAGES, and "yes", this last variable is here so the server can send the data, why? in this case, the server will get data from all rows containing a "yes" in the "yes" section.
 
    - The "count" table keeps track of the room ID Count.
+ 
+   - Use this software to browse through the .db file: https://sqlitebrowser.org/
+   
+   
    
    
       
