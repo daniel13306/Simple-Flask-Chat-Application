@@ -44,7 +44,7 @@ WHAT CAN YOU DO
    
    
    
-   
+ * Simple Chatroom Client with Server & Database.
       
    - Made for Windows
     
