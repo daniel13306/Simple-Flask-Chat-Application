@@ -57,3 +57,5 @@ WHAT CAN YOU DO
    
    
    https://Coding-Community.com
+   https://DeadEagle.nl
+   https://Spitfire-Games.com
