@@ -66,7 +66,6 @@ print("1. Load Chatrooms")
 print("2. Create Chatroom")
 INP = input("What do you want to do?\n")
 if INP == "1":
-
     GetRooms()
 if INP == "2":
     CreateRoom()
