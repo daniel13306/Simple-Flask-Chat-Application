@@ -24,7 +24,7 @@ WHAT CAN YOU DO
 
  * How does the Flask server work?
 
-   - The Flask server is contacted by the client via HTTP Requests, REMEMBER: If your website/Flask application does NOT use SSL/HTTPS, your messages are NOT encrypted! (If you have SSL, The messages are encrypted.)
+   - The Flask server is contacted by the client via HTTP Requests, REMEMBER: If your website/Flask application does NOT use SSL/HTTPS, your messages are NOT encrypted! (If you have SSL, and force HTTP to HTTPS, for example with cloudflare, The messages are encrypted.)
    
    - The Flask server has 3 different Functions, One to Create a new room, this function takes JSON input (Room Name sent by Client)
    
