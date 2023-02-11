@@ -8,14 +8,14 @@ WHAT CAN YOU DO
  
  * Create Chatrooms via the Client
 
-   - Open a Chatroom via the Client, & Send a message, This message is now added to this chatroom.
+   - Select option 2 in the client to create a new room.
    
    - On room Creation, You can choose a name for the room.
    
    - Choose a name on client startup to display in front of your message.
 
  * Join Chatrooms via the Client
-
+ 
    - Choose a name on client startup to display in front of your message.
    
    - Select 1 in the menu to Load Chatrooms, Then enter the chatroom ID you want to open in order to open a room.
