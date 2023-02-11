@@ -48,7 +48,7 @@ WHAT CAN YOU DO
       
    - Made for Windows
     
-   - This Software is [FREE] to use in ANY Case.
+   - This Software is [FREE] to use and modify in ANY Case.
 
    
 
