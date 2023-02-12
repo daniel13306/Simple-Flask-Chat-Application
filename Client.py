@@ -19,7 +19,7 @@ UltraEnter()
 username = input("Enter your Username:\n")
 UltraEnter()
 
-# This function is called to create a room
+# This function is called to create a brand new room
 def CreateRoom():
     UltraEnter()
     INP = input("How do you want to call your room:\n")
@@ -30,7 +30,7 @@ def CreateRoom():
     UltraEnter()
     GetRooms()
 
-# This function is called to create a brand new room
+# This function is called to get all room data from the server
 def GetRooms():
     UltraEnter()
     r = requests.get(f"{SELF_URL}/chatrm/GETROOMS")
