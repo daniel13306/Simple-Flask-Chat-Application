@@ -2,7 +2,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-# Created by DeadEagle
+# Created by DeadEagle.
 # www.DeadEagle.nl
 # www.Coding-Community.com
 # 2023
